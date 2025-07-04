@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "name": "Gaming Mouse",
+      "price": 60,
+      "id": "2"
+
+      
+    },
+    {
+      "name": "Keyboard",
+      "price": 80,
+      "id": "3"
+    },
+    {
+      "name": "pad",
+      "price": 1500,
+      "id": "861c"
+    }
+  ]
+}
